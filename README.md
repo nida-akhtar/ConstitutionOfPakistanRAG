@@ -118,13 +118,13 @@ streamlit run app1.py
 ```
 
 ### 3📁 Project Structure
-
+```
 ├── app1.py
 ├── rag_constitution.py
 ├── requirements.txt
 ├── Constitution_of_Pakistan.pdf
-└── constitution_db/         # Generated after embedding
-
+└─ constitution_db/         # Generated after embedding
+```
 ### 📝 Notes
 All responses are derived only from retrieved constitutional text.
 
