@@ -74,8 +74,8 @@ ollama pull nomic-embed-text
 
 # 1. Clone the repository
 ```bash
-git clone <https://github.com/nida-akhtar/ConstitutionOfPakistanRAG.git>
-cd <ConstitutionOfPakistanRAG>
+git clone https://github.com/nida-akhtar/ConstitutionOfPakistanRAG.git
+cd ConstitutionOfPakistanRAG
 ```
 
 ### 2. Install Python dependencies
